@@ -12,4 +12,4 @@ const FilterComponent = ({ doThis, color }) => {
   );
 };
 
-export default FilterComponent;
+export {FilterComponent};
